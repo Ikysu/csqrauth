@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">csqrauth</string>
+    <string name="auth">OK</string>
+    <string name="cancel">BAN</string>
+</resources>
